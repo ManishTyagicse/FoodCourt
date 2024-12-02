@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="733df5a8-c2ce-4801-87a4-c88e2e504a52" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/AppRoutes.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Footer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/layout/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../uber/backend/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../uber/backend/server.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../codeforces" afterDir="false" />
@@ -23,6 +18,8 @@
       <change beforePath="$PROJECT_DIR$/../../PSLAB/stringrev.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PSLAB/stringrev.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WEBDEV/css_course" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../leetcode" beforeDir="false" afterPath="$PROJECT_DIR$/../../leetcode" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../names.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../python/matrix_loop.py" beforeDir="false" />
@@ -33,7 +30,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
@@ -50,17 +47,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\MyFolder\\CODING\\WebStorm Projects\\FoodCourt\\backend\\node_modules\\typescript\\lib&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "ts.external.directory.path": "D:\\MyFolder\\CODING\\WebStorm Projects\\FoodCourt\\backend\\node_modules\\typescript\\lib"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733033836961</updated>
-      <workItem from="1733033839280" duration="10469000" />
+      <workItem from="1733033839280" duration="11852000" />
     </task>
     <servers />
   </component>
